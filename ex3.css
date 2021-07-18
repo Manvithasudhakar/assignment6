@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+student_catalog{
+	display:block;
+
+	
+
+	
+	
+
+	background-color: wheat;
+
+	padding:  100px;
+    
+
+}
+
+/*
+*{
+	color: brown;
+}*/
+name{
+	color: white: ;
+
+	font-weight: bolder;
+                font-family:  'Pattaya', sans-serif;
+	
+}
